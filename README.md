@@ -1,3 +1,3 @@
 # OSCP
 
-OSCP 2019 Scriot repo/ Try Harder.
+OSCP 2019 Script.  Try Harder.
