@@ -5,4 +5,4 @@ do
 ping -c 3 $i >> ping-recon.txt
 done 
 
-#predicated on the need for a flat file called ip.txt that contains you ip's looks for domains that are up or down. then creates an output.
+# preforms ping sweep on a flat file called ip.txt that needs to be in the same directory.
