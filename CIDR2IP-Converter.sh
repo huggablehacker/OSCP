@@ -1,5 +1,6 @@
 #!/bin/bash    
 # Stolen from https://stackoverflow.com/questions/16986879/bash-script-to-list-all-ips-in-prefix 
+# Converts CIDR notation to IP list, works great with a large group of CIDRs, put into a .txt file.
 
 ############################
 ##  Methods
